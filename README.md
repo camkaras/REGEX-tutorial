@@ -43,7 +43,7 @@ Contribution Guidelines:
 https://github.com/camkaras/REGEX-tutorial
 
 --Alternative Links--
-
+https://gist.github.com/camkaras/4eec0f2af83995d0594026dc3d6a72c7
 
 
 
